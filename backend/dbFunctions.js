@@ -1,6 +1,6 @@
 const { MongoClient } = require("mongodb");
 const uri =
-  "mongodb+srv://cyrusfps:3502Duck@cluster0.zx6s2.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+  "mongodbkey";
 
 // Admin version of getUsers(), returns passwords aswell
 const getUsersAdmin = async () => {
